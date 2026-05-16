@@ -24,7 +24,7 @@ const aditya = {
   stack:       ["React", "Next.js", "Node.js", "Express", "MongoDB", "TypeScript"],
   learning:    ["DevOps", "Docker", "System Design", "Low-Level Design"],
   cp:          "LeetCode Knight 🏅 | 1850+ Rating | 600+ Problems Solved",
-  contact:     "itsaditya101@gmail.com | +91 8987252347",
+  contact:     "itsaditya101@gmail.com",
 };
 ```
 
@@ -178,7 +178,6 @@ const aditya = {
 | Platform | Link |
 |---|---|
 | 📧 Email | [itsaditya101@gmail.com](mailto:itsaditya101@gmail.com) |
-| 📞 Phone | [+91 8987252347](tel:+918987252347) |
 | 💼 LinkedIn | [linkedin.com/in/aditya-kumar-prasad-716820288](https://www.linkedin.com/in/aditya-kumar-prasad-716820288) |
 | 💻 LeetCode | [leetcode.com/u/adityakumarprasad](https://leetcode.com/u/adityakumarprasad/) |
 | 📊 Codolio | [codolio.com/profile/adityakumarprasad](https://codolio.com/profile/adityakumarprasad) |
